@@ -1,0 +1,72 @@
+# Carpeta de salida de compilación
+bin/
+obj/
+
+# Archivos de configuración local
+*.suo
+*.user
+*.sln.docstates
+
+# Archivos de caché y respaldo
+[Tt]humbs.db
+*.log
+*.vspscc
+*.vssscc
+.builds
+
+# Archivos de publicación
+_PublishedWebsites/
+pubxml/
+
+# Archivos de prueba
+TestResults/
+
+# Archivos de herramientas
+*.exe
+*.dll
+*.pdb
+*.cache
+*.bak
+*.tmp
+*.zip
+*.dat
+*.xml
+
+# Archivos de Visual Studio
+*.vs/
+*.vssscc
+*.vspscc
+*.suo
+*.user
+*.bak
+*.cache
+*.log
+*.docstates
+*.tmp
+
+# Archivos de Resharper
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+
+# Archivos de Rider
+.idea/
+*.sln.iml
+
+# Archivos de NuGet
+packages/
+
+# Archivos de compilación
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Entity Framework
+# Archivos de migraciones
+**/Migrations/*.cs
+**/Migrations/*.resx
+
+# Archivos de base de datos local
+*.mdf
+*.ldf
+.fake
